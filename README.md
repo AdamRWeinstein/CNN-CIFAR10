@@ -27,7 +27,7 @@ After training, the model's accuracy on the training set and validation set is p
 To run the script, simply use the following command:
 
 ```
-python cnn_cifar10.py
+python main.py
 ```
 
 The script will automatically download the CIFAR-10 dataset, train the CNN model, plot the training and validation accuracy, evaluate the model on the test set, and print the test accuracy.
